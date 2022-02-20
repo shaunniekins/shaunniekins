@@ -3,5 +3,5 @@
 ## ABOUT ME
 - I’m currently a freshman Computer Science student.
 - I’m currently learning Python.
-- How to reach me: [Email] (shaun_niel@tuta.io)
+- How to reach me: [Email](shaun_niel@tuta.io)
 
