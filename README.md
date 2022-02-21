@@ -1,6 +1,6 @@
 ## I'm a Computer Science
 - I’m currently learning Python.
-- How to reach me: <a href="mailto:shaun_niel@tuta.io">![Email Me!!](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/envelope-open.svg)</a></a>
+- How to reach me: <a href="mailto:shaun_niel@tuta.io">![Email Me!!]</a>
 
 ### Languages and Tools:
 
