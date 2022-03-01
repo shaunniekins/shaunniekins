@@ -1,5 +1,4 @@
-## I'm a Computer Science
-- I’m currently learning Python.
+## I'm a Computer Science student
 - How to reach me: <a href="mailto:shaun_niel@tuta.io">[Email]</a>
 
 ### Languages and Tools:
