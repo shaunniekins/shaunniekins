@@ -1,22 +1,4 @@
-<style>
-  body {
-    margin: 1rem auto;
-    padding: 1rem auto;
-    text-align: center;
-  }
-  #header,
-  #content {
-    align: center;
-  }
-  .logo {
-    width: 26px;
-    margin-left: 10px;
-    margin-right: 10px
-  }
-</style>
-
-<div id="header">
-  <p>Computer Science Student</p>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 
 <div id="badges">
@@ -38,25 +20,42 @@
 
 ---
 
-<div id="content">
-  <h2> LANGUAGES AND TOOLS: </h2>
-  <div id="logos">
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-    <img class="logo" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="CSS3"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  </div>
+<div id="content" align="center">
+  <h3>Languages and Tools</h3>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+         alt="Linux"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+         alt="Visual Studio Code"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+         alt="Git">
+    <img style="width: 30px;" 
+         src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" 
+         alt="GitHub"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+         alt="HTML5"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         alt="CSS3"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         alt="CSS3"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+         alt="Java"/>
+    <img style="width: 30px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         alt="MySQL"/>
 </div>
 
 ---
+<div id="stats" align="center">
+  <h3> My Stats </h3>
 
-<h3> My Stats </h3>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaunniekins&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaunniekins&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunniekins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunniekins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
