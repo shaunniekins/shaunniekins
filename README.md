@@ -1,14 +1,62 @@
-## I'm a Computer Science student
-- How to reach me: <a href="mailto:shaun_niel@tuta.io">[Email]</a>
+<style>
+  body {
+    margin: 1rem auto;
+    padding: 1rem auto;
+    text-align: center;
+  }
+  #header,
+  #content {
+    align: center;
+  }
+  .logo {
+    width: 26px;
+    margin-left: 10px;
+    margin-right: 10px
+  }
+</style>
 
-### Languages and Tools:
+<div id="header">
+  <p>Computer Science Student</p>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<div id="badges">
+   <!-- <a href="your-linkedin-URL"> 
+    <img src="https://img.shields.io/badge/my_portfolio-black?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My-Portfolio Badge"/>
+  </a> -->
+  <a href="https://www.linkedin.com/in/shaun-niel-ochavo-97915a232/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:shaun_niel@tuta.io">
+    <img src="https://img.shields.io/badge/tutanota-red?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.messenger.com/t/shaunniel.ochavo">
+    <img src="https://img.shields.io/badge/messenger-purple?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=shaunniekins&style=flat-circle&color=blue" alt=""/>
+</div>
+
+---
+
+<div id="content">
+  <h2> LANGUAGES AND TOOLS: </h2>
+  <div id="logos">
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
+    <img class="logo" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="CSS3"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+    <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  </div>
+</div>
+
+---
+
+<h3> My Stats </h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaunniekins&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunniekins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
