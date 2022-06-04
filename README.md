@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/shaun-niel-ochavo-97915a232/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:shaun_niel@tuta.io">
-    <img src="https://img.shields.io/badge/tutanota-red?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:shaunniel02@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.messenger.com/t/shaunniel.ochavo">
     <img src="https://img.shields.io/badge/messenger-purple?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
