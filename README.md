@@ -1,6 +1,6 @@
 ### Hi, I'm Shaun Niel Ochavo.
 
-🇵🇭 I'm a Full-Stack Developer from the Philippines. \
+🇵🇭 I'm a Software Engineer from the Philippines. \
 🖥️ I'm currently studying BS in Computer Science at [Caraga State University - Main Campus](https://www.carsu.edu.ph/). \
 👨🏻‍💻 Feel free to contact me at [shaunniel02@gmail.com](mailto:shaunniel02@gmail.com).
 
